@@ -1,33 +1,26 @@
-/*
-let a = 1 ;
-let b = 2.3 ;
-console.log(a);
-console.log(typeof b);
-
 // String
 const firstName = 'Sara';
 
 // Number
 const age = 30;
 const temp = 98.9;
-*/
+
 // Boolean
 const hasKids = true;
-console.log(hasKids);
+
 // Null
 const aptNumber = null;
-console.log(aptNumber);
 
 // Undefined
 // let score;
 const score = undefined;
-console.log(score);
+
 // Symbol
 const id = Symbol('id');
 
 // BigInt
 const n = 9007199254740991n;
-console.log(n);
+
 // Reference Types
 
 const numbers = [1, 2, 3, 4];
@@ -37,11 +30,10 @@ const person = {
 };
 
 function sayHello() {
-    console.log('Hello');
-  }
-  
-  const output = sayHello;
-  
+  console.log('Hello');
+}
+
+const output = sayHello;
 
 console.log(output, typeof output);
 

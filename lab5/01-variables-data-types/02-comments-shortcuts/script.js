@@ -1,9 +1,10 @@
-// this is a single line of code
-
-// multi-line comment
-console.log("D ka");
+// This is a single line of code
 
 /*
-this is a multi-line comment
-and it spans multiple lines
+Multi-line comment
+console.log(100);
+
+console.log('Hello World');
+
+console.log(20, 'Hello', true);
 */
